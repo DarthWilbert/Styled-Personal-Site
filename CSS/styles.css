@@ -21,16 +21,7 @@ h3 {
     position: relative;
     padding-top: 100px;
 }
-.middle-container {
-    background-color: blueviolet;
-    width: 200px;
-    height: 200px;
-}
-.bottom-container{
-    background-color: chartreuse;
-    width: 200px;
-    height: 200px;
-}
+
 
 .top-cloud{
     position: absolute;
