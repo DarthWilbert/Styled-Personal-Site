@@ -5,11 +5,13 @@ body {
 }
 
 h1 {
+    font-size: 5.62rem;
     margin: 0;  
     font-family: 'Sacramento', cursive;
     color: #66BFBF;   
 }
 h2 {
+    font-size: 2.5rem;
     font-family: 'Montserrat', sans-serif;
     color: #66BFBF;
 }
